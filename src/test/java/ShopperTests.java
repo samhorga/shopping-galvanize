@@ -57,7 +57,7 @@ public class ShopperTests {
        actual.add(item1);
        actual.add(item2);
 
-       assertEquals(itemList, actual);
+       assertEquals(itemList.get(0), actual.get(0));
     }
 
     @Test
