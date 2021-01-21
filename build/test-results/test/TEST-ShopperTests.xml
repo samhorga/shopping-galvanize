@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShopperTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-01-21T20:43:00" hostname="LTUS127231" time="0.049">
+  <properties/>
+  <testcase name="listItems" classname="ShopperTests" time="0.002"/>
+  <testcase name="addItem" classname="ShopperTests" time="0.032"/>
+  <testcase name="isOnSale" classname="ShopperTests" time="0.01"/>
+  <testcase name="removeItem" classname="ShopperTests" time="0.0"/>
+  <testcase name="quantityList" classname="ShopperTests" time="0.0"/>
+  <testcase name="removeQuantity" classname="ShopperTests" time="0.0"/>
+  <testcase name="isEmpty" classname="ShopperTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
